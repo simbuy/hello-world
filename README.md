@@ -1,2 +1,4 @@
 # hello-world
-Hello
+Hello, I have nothing to say.
+
+Bye.
